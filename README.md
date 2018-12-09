@@ -6,5 +6,8 @@ Guess a letter by typing in keys with 12 attempts with a record of previous atte
 TODO:
 
 Add Style
+
+
 Validate user key used, must be letter defined in array
+
 Eliminate bug: guessesSoFar frequently produces a character after winning or losing, when it should be cleared.
